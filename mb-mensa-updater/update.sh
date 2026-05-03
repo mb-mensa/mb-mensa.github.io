@@ -25,7 +25,7 @@ git config user.name "mb-mensa-updater"
 python mb-mensa-updater/fetch_menu_pdf.py
 python mb-mensa-updater/parse_menu_pdf.py
 
-NEWEST=$(ls -t html_menus/*.html | head -1)
+NEWEST=$(ls html_menus/*.html | sort | tail -1)
 cp "$NEWEST" index.html
 
 git add index.html pdf_menus/ html_menus/
