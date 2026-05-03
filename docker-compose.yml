@@ -1,0 +1,5 @@
+services:
+  mb-mensa-updater:
+    build: mb-mensa-updater/
+    restart: "unless-stopped"
+    env_file: .env
