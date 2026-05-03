@@ -29,6 +29,6 @@ NEWEST=$(ls -t html_menus/*.html | head -1)
 cp "$NEWEST" index.html
 
 git add index.html pdf_menus/ html_menus/
-git commit -m "Update menu $(date +%Y_KW%V)" || echo "Nothing to commit"
+git commit -m ":up: Update menu $(date +%Y_KW%V)" || echo "Nothing to commit"
 git push
 
