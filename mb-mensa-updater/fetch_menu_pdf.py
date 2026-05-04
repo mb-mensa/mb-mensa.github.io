@@ -28,10 +28,8 @@ def main() -> None:
         prev_path = get_previous_pdf_path(filepath)
         if prev_path is not None and read_bytes(prev_path) == content:
             print(f"Content unchanged from {prev_path}, skipping save.")
-            delete_old_pdfs(keep=filepath)
             return
         save_pdf(content, filepath)
-        delete_old_pdfs(keep=filepath)
         print(f"Downloaded: {filepath}")
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
@@ -48,13 +46,6 @@ def get_previous_pdf_path(current_filepath: str) -> str | None:
     existing = sorted(glob.glob(os.path.join(PDF_DIR, "*.pdf")))
     others = [p for p in existing if p != current_filepath]
     return others[-1] if others else None
-
-
-def delete_old_pdfs(keep: str) -> None:
-    for path in glob.glob(os.path.join(PDF_DIR, "*.pdf")):
-        if path != keep:
-            os.remove(path)
-            print(f"Removed old PDF: {path}")
 
 
 def read_bytes(path: str) -> bytes:
