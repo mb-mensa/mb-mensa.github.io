@@ -15,4 +15,6 @@ ENV TZ=Europe/Zurich
 # Monday 6am CEST
 RUN echo "0 6 * * * /app/update.sh >> /var/log/cron.log 2>&1" >> /etc/crontabs/root
 
-CMD ["sh", "-c", "printenv > /etc/environment && crond -f -l 8"]
+COPY entrypoint.sh .
+RUN chmod +x entrypoint.sh
+ENTRYPOINT ["/app/entrypoint.sh"]
