@@ -9,7 +9,7 @@ from pypdf import PdfReader
 DAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag"]
 PRICE_RE = re.compile(r"^\s*\d+\.\d{2}\s*$")
 DATE_RE = re.compile(r"^\s*\d+\.\s+\w+\s*$")
-FLEISCH_RE = re.compile(r"^\s*Fleisch:")
+PROVENANCE_RE = re.compile(r"^\s*\w+:")
 FOOTER_MARKERS = ["Für Fragen", "Öffnungszeiten", "Bei den Menüs"]
 PDF_DIR = "pdf_menus"
 HTML_DIR = "html_menus"
@@ -182,7 +182,7 @@ def parse_day_block(lines: list[str]) -> tuple[str, str, str, str, str]:
     local_lines = rest[:first_price_idx]
     after_price = rest[first_price_idx + 1 :]
 
-    if after_price and FLEISCH_RE.match(after_price[0]):
+    if after_price and PROVENANCE_RE.match(after_price[0]):
         after_price = after_price[1:]
 
     local_name, local_desc = extract_dish(local_lines)
