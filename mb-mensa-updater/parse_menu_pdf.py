@@ -150,12 +150,17 @@ def split_into_groups(lines: list[str]) -> list[list[str]]:
     groups: list[list[str]] = []
     current: list[str] = []
     for line in lines:
-        if line.strip():
-            current.append(line)
-        else:
+        if not line.strip():
             if current:
                 groups.append(current)
                 current = []
+        elif line != line.lstrip():
+            # Leading whitespace marks the start of the right (vegi) column
+            if current:
+                groups.append(current)
+            current = [line]
+        else:
+            current.append(line)
     if current:
         groups.append(current)
     return groups
