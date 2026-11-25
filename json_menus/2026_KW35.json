@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "24. August",
+    "local": {
+      "name": "Rindfleischlasagne",
+      "description": "Mit Gemüse"
+    },
+    "veggie": {
+      "name": "Orientalische Bowl",
+      "description": "Mit Falafel, Couscous und Tomaten-Gurken Salat"
+    }
+  },
+  "tuesday": {
+    "date": "25. August",
+    "local": {
+      "name": "Massaman Curry mit Poulet",
+      "description": "Mit Reis und Gemüse"
+    },
+    "veggie": {
+      "name": "Ravioli Verdura",
+      "description": "Mit Tomatensugo und Gemüse"
+    }
+  },
+  "wednesday": {
+    "date": "26. August",
+    "local": {
+      "name": "Zürcher Kalbsgeschnetzeltes",
+      "description": "Mit Butternudeln und Gemüse"
+    },
+    "veggie": {
+      "name": "Schupfnudel Pfanne",
+      "description": "Mit Wirsing"
+    }
+  },
+  "thursday": {
+    "date": "27. August",
+    "local": {
+      "name": "Kalbsbratwurst",
+      "description": "Mit Pommes frites und Garnitur"
+    },
+    "veggie": {
+      "name": "Pinsa",
+      "description": "Mit Pilzen"
+    }
+  },
+  "friday": {
+    "date": "28. August",
+    "local": {
+      "name": "Climate Buffet",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Climate Buffet",
+      "description": "13.50"
+    }
+  }
+}

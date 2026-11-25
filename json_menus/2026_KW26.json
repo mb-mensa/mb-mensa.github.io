@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "15. Juni",
+    "local": {
+      "name": "Gehacktes Rindfleisch mit Hörnli",
+      "description": "Mit Apfelmus und Gemüse"
+    },
+    "veggie": {
+      "name": "Blätterteig Tartelette mit Brie und Birnen",
+      "description": "Mit Salat vom Buffet"
+    }
+  },
+  "tuesday": {
+    "date": "16. Juni",
+    "local": {
+      "name": "Schweinebraten",
+      "description": "Mit Kartoffel-Lauch Gratin und Gemüse"
+    },
+    "veggie": {
+      "name": "Bärlauch Agnolotti",
+      "description": "mit Pesto und Mediterranem Gemüse"
+    }
+  },
+  "wednesday": {
+    "date": "17. Juni",
+    "local": {
+      "name": "Spaghetti mit Lachs Carbonara",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Gebratene Nudeln",
+      "description": "mit Frühlingsrollen und Gemüse"
+    }
+  },
+  "thursday": {
+    "date": "18. Juni",
+    "local": {
+      "name": "Crispy Chicken",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Gnocchi",
+      "description": "Mit Pesto und  Mediterranem Gemüse"
+    }
+  },
+  "friday": {
+    "date": "19. Juni",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

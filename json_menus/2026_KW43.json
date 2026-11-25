@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "19. Oktober",
+    "local": {
+      "name": "Kalbs Adrio",
+      "description": "Mit Spirale und Bohnen"
+    },
+    "veggie": {
+      "name": "Kartoffel Birnen Brie Gratin",
+      "description": "13.50"
+    }
+  },
+  "tuesday": {
+    "date": "20. Oktober",
+    "local": {
+      "name": "Ungarische Gulasch",
+      "description": "mit Spätzli"
+    },
+    "veggie": {
+      "name": "5 Formaggi Ravioli",
+      "description": "Mit Salbeibutter"
+    }
+  },
+  "wednesday": {
+    "date": "21. Oktober",
+    "local": {
+      "name": "Chicken Tikka Masala",
+      "description": "Mit Basmatireis und Aubergine"
+    },
+    "veggie": {
+      "name": "Poulet: Schweiz",
+      "description": "Randenrisotto"
+    }
+  },
+  "thursday": {
+    "date": "22. Oktober",
+    "local": {
+      "name": "Cevapcici",
+      "description": "Mit Pommes frites und Ajvar"
+    },
+    "veggie": {
+      "name": "Vegi Gyros",
+      "description": "Mit Pommes und Tzatziki"
+    }
+  },
+  "friday": {
+    "date": "23. Oktober",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    }
+  }
+}

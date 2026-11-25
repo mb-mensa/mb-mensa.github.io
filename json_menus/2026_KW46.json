@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "9. November",
+    "local": {
+      "name": "Poulet Brust",
+      "description": "Mit Käse Hörnli und Gemüse"
+    },
+    "veggie": {
+      "name": "Chili sin Carne",
+      "description": "Mit Wildreis und Gemüse"
+    }
+  },
+  "tuesday": {
+    "date": "10. November",
+    "local": {
+      "name": "Massaman Curry mit Rindfleisch",
+      "description": "mit Jasminreis"
+    },
+    "veggie": {
+      "name": "Herbstlicher Spätzlipfanne",
+      "description": "Mit Rotkraut, Kürbis und Pilzen"
+    }
+  },
+  "wednesday": {
+    "date": "11. November",
+    "local": {
+      "name": "Rindslasagne",
+      "description": "Mit Gemüse"
+    },
+    "veggie": {
+      "name": "Fleisch: Schweiz",
+      "description": "Madras Curry mit Vegi Balls"
+    }
+  },
+  "thursday": {
+    "date": "12. November",
+    "local": {
+      "name": "Schweins Cordon Bleu",
+      "description": "Mit Pommes frites"
+    },
+    "veggie": {
+      "name": "Kartoffelgratin mit Brie und Birnen",
+      "description": "Mit Gemüse"
+    }
+  },
+  "friday": {
+    "date": "13. November",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    }
+  }
+}

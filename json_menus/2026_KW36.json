@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "31. August",
+    "local": {
+      "name": "Frikadelle",
+      "description": "Mit Kartoffelgratin und Gemüse"
+    },
+    "veggie": {
+      "name": "Gnocchi Gorgonzola",
+      "description": "Mit Gemüse"
+    }
+  },
+  "tuesday": {
+    "date": "1. September",
+    "local": {
+      "name": "Saltimbocca",
+      "description": "Mit Kräuterrisotto und Brokkoli"
+    },
+    "veggie": {
+      "name": "Mac and Cheese",
+      "description": "Mit Röstwiebeln"
+    }
+  },
+  "wednesday": {
+    "date": "2. September",
+    "local": {
+      "name": "Kreolischer Thunfisch",
+      "description": "Mit Mangosalsa und Jasminreis"
+    },
+    "veggie": {
+      "name": "Kokos Linsendal",
+      "description": "Mit Reis und Gemüse"
+    }
+  },
+  "thursday": {
+    "date": "3. September",
+    "local": {
+      "name": "Cordon Bleu",
+      "description": "Mit Pommes frites und Garnitur"
+    },
+    "veggie": {
+      "name": "Falafel Dürüm",
+      "description": "Mit Beilagen und Pommes frites"
+    }
+  },
+  "friday": {
+    "date": "4. September",
+    "local": {
+      "name": "Climate Buffet",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Climate Buffet",
+      "description": "13.50"
+    }
+  }
+}

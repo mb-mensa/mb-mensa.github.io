@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "8. Juni",
+    "local": {
+      "name": "Hacktätschli",
+      "description": "Mit Tagliatelle und Bratenjus"
+    },
+    "veggie": {
+      "name": "Vegi Balls",
+      "description": "Mit Tagliatelle und Tomatensalsa"
+    }
+  },
+  "tuesday": {
+    "date": "9. Juni",
+    "local": {
+      "name": "Pochierte Schollenfilet mit Lachs gefüllt",
+      "description": "Mit Limettensauce und Kräuterreis"
+    },
+    "veggie": {
+      "name": "Kichererbsen Stroganoff",
+      "description": "mit Spätzli und Sauerrahm"
+    }
+  },
+  "wednesday": {
+    "date": "10. Juni",
+    "local": {
+      "name": "Poke Bowl",
+      "description": "Mit Reis, Poulet, Edamame, Mango, Süsskartoffeln"
+    },
+    "veggie": {
+      "name": "Poke Bowl",
+      "description": "Mit Knusprigem Tofu, Edamame, Karotten, Mais, Mango und Exotic"
+    }
+  },
+  "thursday": {
+    "date": "11. Juni",
+    "local": {
+      "name": "Gyrosteller",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Flammkuchen Tartelette",
+      "description": "Mit Birnen und Brie"
+    }
+  },
+  "friday": {
+    "date": "12. Juni",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

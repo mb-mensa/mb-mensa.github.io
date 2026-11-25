@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "21. September",
+    "local": {
+      "name": "Cevapcici",
+      "description": "Mit Djuvec Reis und Gemüse"
+    },
+    "veggie": {
+      "name": "Kichererbsen Stroganoff",
+      "description": "Mit Knöpfli"
+    }
+  },
+  "tuesday": {
+    "date": "22. September",
+    "local": {
+      "name": "Kalbsragout Wienerart",
+      "description": "Mit Spätzli"
+    },
+    "veggie": {
+      "name": "Fried Rice",
+      "description": "Mit Frühlingsrollen und Spiegelei"
+    }
+  },
+  "wednesday": {
+    "date": "23. September",
+    "local": {
+      "name": "Pouletbrust an Chimi Churi Sauce",
+      "description": "mit Bratkartofeln"
+    },
+    "veggie": {
+      "name": "Fleisch/Geflügel: Schweiz",
+      "description": "Käse Ravioli"
+    }
+  },
+  "thursday": {
+    "date": "24. September",
+    "local": {
+      "name": "Cheese Burger",
+      "description": "Mit Pommes frites, Garnitur und Toppings"
+    },
+    "veggie": {
+      "name": "Planted Base Cheese Burger",
+      "description": "13.50"
+    }
+  },
+  "friday": {
+    "date": "25. September",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    }
+  }
+}

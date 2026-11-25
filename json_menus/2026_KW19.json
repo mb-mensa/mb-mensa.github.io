@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "27. April",
+    "local": {
+      "name": "Kalbsbraten",
+      "description": "Mit Kartoffelgratin, Morchelrahmsauce und Gemüse"
+    },
+    "veggie": {
+      "name": "Cannelloni",
+      "description": "Mit Spinat und Ricotta Füllung dazu Tomatensauce"
+    }
+  },
+  "tuesday": {
+    "date": "28. April",
+    "local": {
+      "name": "Rindfleisch Lasagne",
+      "description": "Mit Tomatensauce und Gemüse"
+    },
+    "veggie": {
+      "name": "Käse Spätzli",
+      "description": "mit Röstzwiebeln und Apfelmus"
+    }
+  },
+  "wednesday": {
+    "date": "29. April",
+    "local": {
+      "name": "Chicken Terriyaki",
+      "description": "Mit Gemüse und Reis"
+    },
+    "veggie": {
+      "name": "Saag Aloo",
+      "description": "Indisches Kartoffelgericht mit Spinat und Reis"
+    }
+  },
+  "thursday": {
+    "date": "30. April",
+    "local": {
+      "name": "GABS Burger im Brioche Bun",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Steinpilz Ravioli",
+      "description": "Mit Käserahmsauce oder Pesto"
+    }
+  },
+  "friday": {
+    "date": "1. Mai",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

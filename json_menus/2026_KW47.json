@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "16. November",
+    "local": {
+      "name": "Tortelloni mit Rindfleischfüllung",
+      "description": "Mit Pesto Rosso"
+    },
+    "veggie": {
+      "name": "Mexikanische Bowl",
+      "description": "Mit Süsskartoffeln,  Mais, Jalapeños"
+    }
+  },
+  "tuesday": {
+    "date": "17. November",
+    "local": {
+      "name": "Pouletragout Mediterran",
+      "description": "mit Risotto und Gemüse"
+    },
+    "veggie": {
+      "name": "Pizokel",
+      "description": "Mit Käserahmsauce, Röstzwiebeln und Mangold"
+    }
+  },
+  "wednesday": {
+    "date": "18. November",
+    "local": {
+      "name": "Wiener Kalbsrahmgulasch",
+      "description": "Mit Tagliatelle"
+    },
+    "veggie": {
+      "name": "Fleisch: Schweiz",
+      "description": "Indische Bowl"
+    }
+  },
+  "thursday": {
+    "date": "19. November",
+    "local": {
+      "name": "Schweinsgyros mit Tsatsiki",
+      "description": "Mit Pommes frites"
+    },
+    "veggie": {
+      "name": "Gnocchi Cinque Pi",
+      "description": "Mit Gemüse"
+    }
+  },
+  "friday": {
+    "date": "20. November",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "18. Mai",
+    "local": {
+      "name": "Beef Balls",
+      "description": "Mit Tagliatelle und rassiger Tomatensauce"
+    },
+    "veggie": {
+      "name": "Pizokel",
+      "description": "Mit Pilzrahmsauce und Gemüse"
+    }
+  },
+  "tuesday": {
+    "date": "19. Mai",
+    "local": {
+      "name": "Ofenfleischkäse",
+      "description": "Mit Kartoffelgratin und Rahmspinat"
+    },
+    "veggie": {
+      "name": "Healthy Bowl",
+      "description": "mit Falafel und diversen frischen Zutaten"
+    }
+  },
+  "wednesday": {
+    "date": "20. Mai",
+    "local": {
+      "name": "Chicken Masaman Curry",
+      "description": "Mit Kartoffeln, Gemüse und Reis"
+    },
+    "veggie": {
+      "name": "Rotes Thai Gemüsecurry",
+      "description": "Mit geräuchertem Tofu und Reis"
+    }
+  },
+  "thursday": {
+    "date": "21. Mai",
+    "local": {
+      "name": "Currywurst",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Pizza Tartelette",
+      "description": "Mit Tomaten, Mozzarella und Salat vom Buffet"
+    }
+  },
+  "friday": {
+    "date": "22. Mai",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

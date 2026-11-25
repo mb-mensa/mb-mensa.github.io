@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "2. November",
+    "local": {
+      "name": "Poulet Satay",
+      "description": "Mit Jasminreis"
+    },
+    "veggie": {
+      "name": "Pilzrisotto",
+      "description": "Mit Gemüse"
+    }
+  },
+  "tuesday": {
+    "date": "3. November",
+    "local": {
+      "name": "Zander Knusperli",
+      "description": "mit Salzkartoffeln und Tartarsauce"
+    },
+    "veggie": {
+      "name": "Süsskartoffelcurry",
+      "description": "Mit Babyspinat und knusprigem Tofu"
+    }
+  },
+  "wednesday": {
+    "date": "4. November",
+    "local": {
+      "name": "Kalbsbraten",
+      "description": "Mit Kartoffelgratin und Bohnen"
+    },
+    "veggie": {
+      "name": "Fleisch: Schweiz",
+      "description": "Gefüllte Peperoni"
+    }
+  },
+  "thursday": {
+    "date": "5. November",
+    "local": {
+      "name": "Currywurst",
+      "description": "Mit Pommes frites"
+    },
+    "veggie": {
+      "name": "Oriental bowl",
+      "description": "Mit Cous Cous , Falafel und Auberginen"
+    }
+  },
+  "friday": {
+    "date": "6. November",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    }
+  }
+}

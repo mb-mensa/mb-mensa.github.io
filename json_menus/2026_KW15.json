@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "6. April",
+    "local": {
+      "name": "Schöne Ostern",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Schöne Ostern",
+      "description": ""
+    }
+  },
+  "tuesday": {
+    "date": "7. April",
+    "local": {
+      "name": "Kalbsmeatballs",
+      "description": "Mit Rosmarinkartoffeln, Paprikarahmsauce und Gemüse"
+    },
+    "veggie": {
+      "name": "Gemüselasagne",
+      "description": "Mit Tomatensauce"
+    }
+  },
+  "wednesday": {
+    "date": "8. April",
+    "local": {
+      "name": "Mariniertes Zitronen Hänchen",
+      "description": "Mit Tagliatelle Zitronenrahmsauce und Gemüse"
+    },
+    "veggie": {
+      "name": "Grünes Thaicurry",
+      "description": "Mit Reis"
+    }
+  },
+  "thursday": {
+    "date": "9. April",
+    "local": {
+      "name": "Gyrossteller",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Börek gefüllt mit Feta und Spinat",
+      "description": "Mit marokkanischem Couscous und Kräuterdip"
+    }
+  },
+  "friday": {
+    "date": "10. April",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

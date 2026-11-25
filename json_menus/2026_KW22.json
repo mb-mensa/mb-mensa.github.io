@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "25. Mai",
+    "local": {
+      "name": "Pfingstmontag",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Fleisch: Schweiz",
+      "description": ""
+    }
+  },
+  "tuesday": {
+    "date": "26. Mai",
+    "local": {
+      "name": "Ravioli Carne",
+      "description": "Mit Tomatensauce"
+    },
+    "veggie": {
+      "name": "Cinque P",
+      "description": "mit Penne und Tomatenrahmsauce"
+    }
+  },
+  "wednesday": {
+    "date": "27. Mai",
+    "local": {
+      "name": "Mediterranes Poulet Steak",
+      "description": "Mit Risotto und Paprikatomatensauce"
+    },
+    "veggie": {
+      "name": "Fried Rice",
+      "description": "Mit Ei und Gemüse Frühlingsrollen"
+    }
+  },
+  "thursday": {
+    "date": "28. Mai",
+    "local": {
+      "name": "Cordonbleu",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Kartoffeln Gratin Romandie",
+      "description": "Mit Birnen und Brie"
+    }
+  },
+  "friday": {
+    "date": "29. Mai",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

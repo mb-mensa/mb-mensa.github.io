@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "5. Oktober",
+    "local": {
+      "name": "Ofen Fleischkäse",
+      "description": "Mit Kartoffelgratin und Gemüse"
+    },
+    "veggie": {
+      "name": "Thai Gemüsecurry",
+      "description": "Mit Reis"
+    }
+  },
+  "tuesday": {
+    "date": "6. Oktober",
+    "local": {
+      "name": "Rehgeschnetzeltes",
+      "description": "Mit Spätzli und Rotkraurt"
+    },
+    "veggie": {
+      "name": "Kürbis Risotto",
+      "description": "Mit Kernen und Rucola Topping"
+    }
+  },
+  "wednesday": {
+    "date": "7. Oktober",
+    "local": {
+      "name": "Älpler Makkaroni",
+      "description": "Mit Röstzwiebeln"
+    },
+    "veggie": {
+      "name": "Fussili al Arrabiata",
+      "description": "Mit Gemüse"
+    }
+  },
+  "thursday": {
+    "date": "8. Oktober",
+    "local": {
+      "name": "Cordon Bleu",
+      "description": "Mit Pommes frites, Garnitur und Toppings"
+    },
+    "veggie": {
+      "name": "Gemüse Lasagne",
+      "description": "13.50"
+    }
+  },
+  "friday": {
+    "date": "9. Oktober",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    }
+  }
+}

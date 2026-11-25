@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "12. Oktober",
+    "local": {
+      "name": "Schweinssteak",
+      "description": "Mit Rösti und Pilzrahmsauce"
+    },
+    "veggie": {
+      "name": "Gemüselasagne",
+      "description": "13.50"
+    }
+  },
+  "tuesday": {
+    "date": "13. Oktober",
+    "local": {
+      "name": "Poulet Sweet Sour",
+      "description": "Mit Reis"
+    },
+    "veggie": {
+      "name": "Grünes Thaicurry",
+      "description": "Mit Tofu"
+    }
+  },
+  "wednesday": {
+    "date": "14. Oktober",
+    "local": {
+      "name": "Kalbshackbraten",
+      "description": "Mit Kartoffelstock und Gemüse"
+    },
+    "veggie": {
+      "name": "Gnocchi",
+      "description": "Mit Tomatensauce, frischem Basilikum und Burrata-Topping"
+    }
+  },
+  "thursday": {
+    "date": "15. Oktober",
+    "local": {
+      "name": "Kosakenspiess",
+      "description": "Mit Pommes frites, Garnitur und Toppings"
+    },
+    "veggie": {
+      "name": "Capuns",
+      "description": "Mit Salzkartoffeln"
+    }
+  },
+  "friday": {
+    "date": "16. Oktober",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    }
+  }
+}

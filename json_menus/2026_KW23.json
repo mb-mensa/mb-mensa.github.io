@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "1. Juni",
+    "local": {
+      "name": "Grillschnecke",
+      "description": "Mit Polenta und Zwiebelsauce"
+    },
+    "veggie": {
+      "name": "Madras Gemüse-Curry",
+      "description": "Mit Basmatireis"
+    }
+  },
+  "tuesday": {
+    "date": "2. Juni",
+    "local": {
+      "name": "Poulet Spiess",
+      "description": "Mit Satay und Basmatireis"
+    },
+    "veggie": {
+      "name": "Steinpilz Ravioli",
+      "description": "mit Kräuterrahmsauce"
+    }
+  },
+  "wednesday": {
+    "date": "3. Juni",
+    "local": {
+      "name": "Fischfilet Bordelaise",
+      "description": "Mit Rahmlauch und Salzkartoffeln"
+    },
+    "veggie": {
+      "name": "Melanzani überbacken mit Mozzarella",
+      "description": "Mit Weissweinrisotto und Tomatensalsa"
+    }
+  },
+  "thursday": {
+    "date": "4. Juni",
+    "local": {
+      "name": "Cevapcici",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Börek mit Feta",
+      "description": "Mit Pommes frites und Toppings"
+    }
+  },
+  "friday": {
+    "date": "5. Juni",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

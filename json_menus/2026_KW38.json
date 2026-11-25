@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "14. September",
+    "local": {
+      "name": "Pojarski Steak",
+      "description": "Mit Pasta und Pilzrahmsauce"
+    },
+    "veggie": {
+      "name": "Spinat-Käse oder Tomatenwähe oder Salat vom Buffet",
+      "description": "13.50"
+    }
+  },
+  "tuesday": {
+    "date": "15. September",
+    "local": {
+      "name": "Chicken Panaeng Curry",
+      "description": "Mit Reis"
+    },
+    "veggie": {
+      "name": "Green Thai Curry",
+      "description": "Mit Reis und gerauchtem Tofu"
+    }
+  },
+  "wednesday": {
+    "date": "16. September",
+    "local": {
+      "name": "Schwingerschüblig",
+      "description": "Mit Käsehörnli"
+    },
+    "veggie": {
+      "name": "Süsskartoffelgnocchi",
+      "description": "Mit Cinque Pi Sauce"
+    }
+  },
+  "thursday": {
+    "date": "17. September",
+    "local": {
+      "name": "Rindshohrückensteak",
+      "description": "Mit Pommes frites und toppings"
+    },
+    "veggie": {
+      "name": "Pinsa Verdura",
+      "description": "Mit Gemüse"
+    }
+  },
+  "friday": {
+    "date": "18. September",
+    "local": {
+      "name": "Marktbuffet",
+      "description": "Mit buntem allerlei"
+    },
+    "veggie": {
+      "name": "Marktbuffet",
+      "description": "Mit buntem allerlei"
+    }
+  }
+}

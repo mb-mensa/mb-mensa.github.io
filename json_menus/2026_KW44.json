@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "26. Oktober",
+    "local": {
+      "name": "Olma Bratwurst",
+      "description": "Mit Rösti und Zwiebelsauce"
+    },
+    "veggie": {
+      "name": "Pinsa mit Ofengemüse",
+      "description": "13.50"
+    }
+  },
+  "tuesday": {
+    "date": "27. Oktober",
+    "local": {
+      "name": "Lachsfilet gebraten",
+      "description": "mit Wildreis und Safransauce"
+    },
+    "veggie": {
+      "name": "Linsen Dal",
+      "description": "Mit Süsskartoffel"
+    }
+  },
+  "wednesday": {
+    "date": "28. Oktober",
+    "local": {
+      "name": "Älpler Makkaroni",
+      "description": "Mit Apfelmus"
+    },
+    "veggie": {
+      "name": "Fleisch: Schweiz",
+      "description": "Mac and Cheese"
+    }
+  },
+  "thursday": {
+    "date": "29. Oktober",
+    "local": {
+      "name": "Poulet Kebab Teller",
+      "description": "Mit Pommes frites"
+    },
+    "veggie": {
+      "name": "Pizokel",
+      "description": "Mit Eierschwamme und Wirsing"
+    }
+  },
+  "friday": {
+    "date": "30. Oktober",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    }
+  }
+}

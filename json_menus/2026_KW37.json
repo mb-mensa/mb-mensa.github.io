@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "7. September",
+    "local": {
+      "name": "Poulet Involtini gefüllt mit Waldpilzen",
+      "description": "Mit Fusilli und Tomatensauce"
+    },
+    "veggie": {
+      "name": "Kürbisrisotto",
+      "description": "Mit Jungspinat und Kernen"
+    }
+  },
+  "tuesday": {
+    "date": "8. September",
+    "local": {
+      "name": "Rindsgeschnetzeltes Stroganoff",
+      "description": "Mit Spätzli und Gemüse"
+    },
+    "veggie": {
+      "name": "Gefüllte Peperoni mit Käse überbacken",
+      "description": "Mit Cous Cous und Gemüse"
+    }
+  },
+  "wednesday": {
+    "date": "9. September",
+    "local": {
+      "name": "Lachsfilet mit Miso",
+      "description": "Mit Basmatireis und Edamame"
+    },
+    "veggie": {
+      "name": "Moussaka",
+      "description": "Mit Reis"
+    }
+  },
+  "thursday": {
+    "date": "10. September",
+    "local": {
+      "name": "Chicken Nuggets",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Börek mit Feta und Spinat",
+      "description": "Mit Pommes frites und Joghurtsauce"
+    }
+  },
+  "friday": {
+    "date": "11. September",
+    "local": {
+      "name": "Climate Buffet",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Climate Buffet",
+      "description": "13.50"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "6. Juli",
+    "local": {
+      "name": "Rindsburger an Champignonsrahmsauce",
+      "description": "Mit Pommes und Gemüse"
+    },
+    "veggie": {
+      "name": "Hot n Smokey Mac n Cheese",
+      "description": "Mit Jalapeños und Röstzwiebeln"
+    }
+  },
+  "tuesday": {
+    "date": "7. Juli",
+    "local": {
+      "name": "Bierbratwurst",
+      "description": "Mit Risotto und Jus"
+    },
+    "veggie": {
+      "name": "Quorn Ragout",
+      "description": "mit Rösti Kroketten"
+    }
+  },
+  "wednesday": {
+    "date": "8. Juli",
+    "local": {
+      "name": "Indische Bowl",
+      "description": "Mit Reis, Poulet Tikka Masala, Bohnen, Mango, Auberginen, Kabis"
+    },
+    "veggie": {
+      "name": "Indische Bowl",
+      "description": "Mit Linsen Dal, Samosas ,  Granatapfel, Basmatireis, Mango und Naan"
+    }
+  },
+  "thursday": {
+    "date": "9. Juli",
+    "local": {
+      "name": "Kalbs Pojarski",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Vegi Burger mit Buns",
+      "description": "Mit Pommes"
+    }
+  },
+  "friday": {
+    "date": "10. Juli",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

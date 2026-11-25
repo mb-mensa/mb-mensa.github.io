@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "27. Juli",
+    "local": {
+      "name": "Zander Knusperli",
+      "description": "Mit Salzkartoffeln und Rahmspinat"
+    },
+    "veggie": {
+      "name": "Gemüselasagne",
+      "description": "13.50"
+    }
+  },
+  "tuesday": {
+    "date": "28. Juli",
+    "local": {
+      "name": "Butterchicken",
+      "description": "Mit Basmatireis"
+    },
+    "veggie": {
+      "name": "Fleisch/Geflügel: Schweiz",
+      "description": "Süsskartoffel Ragout"
+    }
+  },
+  "wednesday": {
+    "date": "29. Juli",
+    "local": {
+      "name": "Schüblig",
+      "description": "Mit Kartoffelsalat"
+    },
+    "veggie": {
+      "name": "Vegi älplermaggronen",
+      "description": "Mit Röstzwiebeln und Apfelmus"
+    }
+  },
+  "thursday": {
+    "date": "30. Juli",
+    "local": {
+      "name": "Pouletspiess Tex Mex",
+      "description": "Mit Pommes frites"
+    },
+    "veggie": {
+      "name": "Spinat Börek",
+      "description": "Mit Joghurtsauce und Beilage nach Wahl"
+    }
+  },
+  "friday": {
+    "date": "31. Juli",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

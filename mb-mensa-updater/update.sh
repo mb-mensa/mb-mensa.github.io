@@ -28,7 +28,10 @@ python mb-mensa-updater/parse_menu_pdf.py
 NEWEST=$(ls html_menus/*.html | sort | tail -1)
 cp "$NEWEST" index.html
 
-git add index.html pdf_menus/ html_menus/
+NEWEST_JSON=$(ls json_menus/*.json | sort | tail -1)
+cp "$NEWEST_JSON" latest.json
+
+git add index.html latest.json pdf_menus/ html_menus/ json_menus/
 git commit -m ":up: Update menu $(date +%Y_KW%V)" || echo "Nothing to commit"
 git push
 

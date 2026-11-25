@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "23. November",
+    "local": {
+      "name": "Kalbshackbraten",
+      "description": "Mit Kartoffel Kroketten und Karoten"
+    },
+    "veggie": {
+      "name": "Randen Risotto",
+      "description": "Mit Feta und jungem Spinat"
+    }
+  },
+  "tuesday": {
+    "date": "24. November",
+    "local": {
+      "name": "Fischknusperli",
+      "description": "Mit Salzkartoffeln und Rahmspinat"
+    },
+    "veggie": {
+      "name": "Falafel",
+      "description": "Mit Tomaten Cous Cous"
+    }
+  },
+  "wednesday": {
+    "date": "25. November",
+    "local": {
+      "name": "Nippon Bowl",
+      "description": "Mit Reis ,Teriyaki Poulet ,Edamame und Shitake"
+    },
+    "veggie": {
+      "name": "Vietnamesische Bowl",
+      "description": "Mit Nudeln, Tofu , Gurken und Salat"
+    }
+  },
+  "thursday": {
+    "date": "26. November",
+    "local": {
+      "name": "Cervelat Cordon Bleu",
+      "description": "Mit Pommes frites & Toppings"
+    },
+    "veggie": {
+      "name": "Raclette",
+      "description": "Mit Kartoffeln und Essiggemüse"
+    }
+  },
+  "friday": {
+    "date": "27. November",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hät solangs hät"
+    }
+  }
+}

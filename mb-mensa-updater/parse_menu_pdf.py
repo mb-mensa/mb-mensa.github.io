@@ -1,18 +1,27 @@
 #!/usr/bin/env python3
 """Parse Migros Bank menu PDFs and render HTML tables."""
 
+import json
 import os
 import re
 
 from pypdf import PdfReader
 
 DAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag"]
+DAY_KEYS = {
+    "Montag": "monday",
+    "Dienstag": "tuesday",
+    "Mittwoch": "wednesday",
+    "Donnerstag": "thursday",
+    "Freitag": "friday",
+}
 PRICE_RE = re.compile(r"^\s*\d+\.\d{2}\s*$")
 DATE_RE = re.compile(r"^\s*\d+\.\s+\w+\s*$")
 PROVENANCE_RE = re.compile(r"^\s*\w+:")
 FOOTER_MARKERS = ["Für Fragen", "Öffnungszeiten", "Bei den Menüs"]
 PDF_DIR = "pdf_menus"
 HTML_DIR = "html_menus"
+JSON_DIR = "json_menus"
 
 PAGE_FOOTER = """\
 <footer>
@@ -78,6 +87,7 @@ def page_html(body: str) -> str:
 
 def main() -> None:
     os.makedirs(HTML_DIR, exist_ok=True)
+    os.makedirs(JSON_DIR, exist_ok=True)
     pdf_files = sorted(f for f in os.listdir(PDF_DIR) if f.lower().endswith(".pdf"))
 
     for pdf_file in pdf_files:
@@ -89,6 +99,23 @@ def main() -> None:
         with open(html_path, "w", encoding="utf-8") as f:
             f.write(html)
         print(f"Written: {html_path}")
+        json_path = os.path.join(JSON_DIR, f"{week}.json")
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(to_json(menu), f, ensure_ascii=False, indent=2)
+            f.write("\n")
+        print(f"Written: {json_path}")
+
+
+def to_json(menu: list[dict[str, str]]) -> dict[str, dict[str, object] | None]:
+    """Map weekday keys (monday..friday) to meal data; days missing from the PDF are null."""
+    result: dict[str, dict[str, object] | None] = {key: None for key in DAY_KEYS.values()}
+    for m in menu:
+        result[DAY_KEYS[m["day"]]] = {
+            "date": m["date"],
+            "local": {"name": m["local"], "description": m["local_desc"]},
+            "veggie": {"name": m["veggie"], "description": m["veggie_desc"]},
+        }
+    return result
 
 
 def to_table(menu: list[dict[str, str]]) -> str:

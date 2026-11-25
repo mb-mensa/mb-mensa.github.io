@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "20. Juli",
+    "local": {
+      "name": "Rinds Bulgogi",
+      "description": "Mit Reis und Spiegelei"
+    },
+    "veggie": {
+      "name": "Käsespätzli",
+      "description": "Mit Apfelmus und Röstzwiebeln"
+    }
+  },
+  "tuesday": {
+    "date": "21. Juli",
+    "local": {
+      "name": "Pouletbrust an Chimichuri",
+      "description": "Mit Risotto und Gemüse"
+    },
+    "veggie": {
+      "name": "Bami Goreng",
+      "description": "mit Frühlingsrollen"
+    }
+  },
+  "wednesday": {
+    "date": "22. Juli",
+    "local": {
+      "name": "Kalbsbraten",
+      "description": "Mit Rosmarinkartoffeln und Bohnen"
+    },
+    "veggie": {
+      "name": "Wähen",
+      "description": "Mit Salat vom Buffet"
+    }
+  },
+  "thursday": {
+    "date": "23. Juli",
+    "local": {
+      "name": "Schweine Gyros",
+      "description": "Mit Pommes frites und Toppings"
+    },
+    "veggie": {
+      "name": "Vegi Stroganoff",
+      "description": "Mit Pilawreis"
+    }
+  },
+  "friday": {
+    "date": "24. Juli",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

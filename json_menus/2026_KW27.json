@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "29. Juni",
+    "local": {
+      "name": "Hackbraten in Speckmantel",
+      "description": "Mit Schupfnudeln und Rahmlauch"
+    },
+    "veggie": {
+      "name": "Käsespätzli",
+      "description": "Mit Briespitzen und Preiselbeeren"
+    }
+  },
+  "tuesday": {
+    "date": "30. Juni",
+    "local": {
+      "name": "Boeuf Bourgignon",
+      "description": "Mit Bratkartoffeln"
+    },
+    "veggie": {
+      "name": "Vegi Cevapcici",
+      "description": "Mit Bratkartoffeln, Tzatziki und Ayvar"
+    }
+  },
+  "wednesday": {
+    "date": "1. Juli",
+    "local": {
+      "name": "Poulet Riz Casimir",
+      "description": "Mit Reis und   Früchte"
+    },
+    "veggie": {
+      "name": "Ravioli Verdura",
+      "description": "Mit Tomatenrahmsauce"
+    }
+  },
+  "thursday": {
+    "date": "2. Juli",
+    "local": {
+      "name": "Schweineschnitzel",
+      "description": "Mit Pommes Frites & Toppings"
+    },
+    "veggie": {
+      "name": "Gefüllte Paprika",
+      "description": "Mit Gemüse und Pommes Frites"
+    }
+  },
+  "friday": {
+    "date": "3. Juli",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

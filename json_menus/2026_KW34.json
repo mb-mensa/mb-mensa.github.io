@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "17. August",
+    "local": {
+      "name": "Poulet Spiess Satay",
+      "description": "Mit Reis und Gemüse"
+    },
+    "veggie": {
+      "name": "Älpler Makkaroni",
+      "description": "Mit Apfelmus und Röstzwiebeln"
+    }
+  },
+  "tuesday": {
+    "date": "18. August",
+    "local": {
+      "name": "Kalbsmeatballs",
+      "description": "Mit Fusilli und Chique Pi Sauce"
+    },
+    "veggie": {
+      "name": "Bündner Capuns",
+      "description": "Mit Salzkartoffeln"
+    }
+  },
+  "wednesday": {
+    "date": "19. August",
+    "local": {
+      "name": "Chili con Carne",
+      "description": "Mit Reis und Gemüse"
+    },
+    "veggie": {
+      "name": "Süsskartoffel-Quinoa Bowl",
+      "description": "Mit Feta und karamellisierten Haselnüsse"
+    }
+  },
+  "thursday": {
+    "date": "20. August",
+    "local": {
+      "name": "Schweinsgyros",
+      "description": "Mit Pommes frites und Garnitur"
+    },
+    "veggie": {
+      "name": "Auberginen-Tikka Masala",
+      "description": "Mit Reis"
+    }
+  },
+  "friday": {
+    "date": "21. August",
+    "local": {
+      "name": "Climate Buffet",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Climate Buffet",
+      "description": "13.50"
+    }
+  }
+}

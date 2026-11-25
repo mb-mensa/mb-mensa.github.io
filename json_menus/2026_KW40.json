@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "28. September",
+    "local": {
+      "name": "Chicken Satay Spiess",
+      "description": "Mit Jasminreis und Gemüse"
+    },
+    "veggie": {
+      "name": "Raclette Kartoffeln",
+      "description": "Mit Essiggurken und Gemüse"
+    }
+  },
+  "tuesday": {
+    "date": "29. September",
+    "local": {
+      "name": "Rindfleischvogel",
+      "description": "Mit Safranrisotto und Gemüse"
+    },
+    "veggie": {
+      "name": "Schwäbische Maultaschen",
+      "description": "Mit Eierschwämmen und Rahmsauce"
+    }
+  },
+  "wednesday": {
+    "date": "30. September",
+    "local": {
+      "name": "Seeklachsfilet Bordelaise",
+      "description": "mit Salzkartoffeln und Rahmspinat"
+    },
+    "veggie": {
+      "name": "Mexikanische Bowl",
+      "description": "Mit Jalapeños, Tomatenreis und Avocado"
+    }
+  },
+  "thursday": {
+    "date": "1. Oktober",
+    "local": {
+      "name": "Kalbsbratwurst",
+      "description": "Mit Pommes frites, Garnitur und Toppings"
+    },
+    "veggie": {
+      "name": "Herbstliche Schupfnudel Pfanne",
+      "description": "Mit Kürbis und karamellisierten Marroni"
+    }
+  },
+  "friday": {
+    "date": "2. Oktober",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem allerlei & es hät solangs hät"
+    }
+  }
+}

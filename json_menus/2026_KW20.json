@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "11. Mai",
+    "local": {
+      "name": "Hacktätschli",
+      "description": "Mit Kartoffelstock und Gemüse"
+    },
+    "veggie": {
+      "name": "Älpler Makkaroni",
+      "description": "Mit Röstzwiebeln"
+    }
+  },
+  "tuesday": {
+    "date": "12. Mai",
+    "local": {
+      "name": "Poulet Involtini",
+      "description": "Mit Weissweinrisotto und Gemüse"
+    },
+    "veggie": {
+      "name": "Tikka Masala",
+      "description": "mit Basmatireis"
+    }
+  },
+  "wednesday": {
+    "date": "13. Mai",
+    "local": {
+      "name": "Olma Bratwurst",
+      "description": "Mit Pommes frites und Gemüse"
+    },
+    "veggie": {
+      "name": "Spargelrisotto",
+      "description": "Mit Gebackener Brie und Preiselbeeren"
+    }
+  },
+  "thursday": {
+    "date": "14. Mai",
+    "local": {
+      "name": "Auffahrt",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Auffahrt",
+      "description": ""
+    }
+  },
+  "friday": {
+    "date": "15. Mai",
+    "local": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    },
+    "veggie": {
+      "name": "Climate- Marktbuffet",
+      "description": "Mit buntem Allerlei & es hat solange es hat"
+    }
+  }
+}

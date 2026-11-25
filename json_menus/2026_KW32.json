@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "3. August",
+    "local": {
+      "name": "Bier Bratwurst",
+      "description": "Mit Rösti, Gemüse und Jus"
+    },
+    "veggie": {
+      "name": "Indisches Gemüsecurry mit Okara Balls",
+      "description": "Mit Basmati Reis"
+    }
+  },
+  "tuesday": {
+    "date": "4. August",
+    "local": {
+      "name": "Ungarisches Gulasch",
+      "description": "Mit Spätzli und Gemüse"
+    },
+    "veggie": {
+      "name": "Tomatenrisotto",
+      "description": "Mit Brokkoli-Käse Patty"
+    }
+  },
+  "wednesday": {
+    "date": "5. August",
+    "local": {
+      "name": "Paella Poulet und Crevetten",
+      "description": "Mit Gemüse"
+    },
+    "veggie": {
+      "name": "Pizokel",
+      "description": "Mit Pilzrahmsauce"
+    }
+  },
+  "thursday": {
+    "date": "6. August",
+    "local": {
+      "name": "Schweins Schaschlikspiess",
+      "description": "Mit Pommes frites und Garnitur"
+    },
+    "veggie": {
+      "name": "Cavapcici",
+      "description": "Mit Reis und Ajvar"
+    }
+  },
+  "friday": {
+    "date": "7. August",
+    "local": {
+      "name": "Climate Buffet",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Climate Buffet",
+      "description": "13.50"
+    }
+  }
+}

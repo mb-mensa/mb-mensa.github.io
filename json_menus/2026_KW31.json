@@ -1,0 +1,57 @@
+{
+  "monday": {
+    "date": "3. August",
+    "local": {
+      "name": "Poulet Involtini",
+      "description": "Mit Fussili und Gartengemüse , Jus"
+    },
+    "veggie": {
+      "name": "Linsen Dal",
+      "description": "Mit Basmati Reis und Joghurt"
+    }
+  },
+  "tuesday": {
+    "date": "4. August",
+    "local": {
+      "name": "Cordon Bleu",
+      "description": "Mit Bratkartoffeln"
+    },
+    "veggie": {
+      "name": "Ravioli Formaggi",
+      "description": "Mit Sauce Alfredo"
+    }
+  },
+  "wednesday": {
+    "date": "5. August",
+    "local": {
+      "name": "Rinds Rendang",
+      "description": "Mit Reis"
+    },
+    "veggie": {
+      "name": "Gärtner Spätzli",
+      "description": "Mit Gemüse und Gebackene Brie"
+    }
+  },
+  "thursday": {
+    "date": "6. August",
+    "local": {
+      "name": "Cheeseburger",
+      "description": "Mit Pommes frites und Garnitur"
+    },
+    "veggie": {
+      "name": "Pinsa Verdura",
+      "description": "Mit Salat Vom Buffet"
+    }
+  },
+  "friday": {
+    "date": "7. August",
+    "local": {
+      "name": "Climate Buffet",
+      "description": ""
+    },
+    "veggie": {
+      "name": "Climate Buffet",
+      "description": "13.50"
+    }
+  }
+}
